@@ -1,5 +1,5 @@
 ##################### Extra Hard Starting Project ######################
-import os
+
 import smtplib
 import datetime as dt
 import random
